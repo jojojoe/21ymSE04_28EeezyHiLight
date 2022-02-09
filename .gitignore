@@ -1,0 +1,7 @@
+EHymEeezyHiLight.xcodeproj/xcuserdata/
+EHymEeezyHiLight.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+EHymEeezyHiLight.xcodeproj/project.xcworkspace/xcuserdata/

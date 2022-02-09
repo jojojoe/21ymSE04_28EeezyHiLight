@@ -1,0 +1,83 @@
+
+[
+    {
+        "thumbName" : "home_add_ic",
+        "bigName" : "custom",
+        "isPro": false
+    },
+    {
+        "thumbName" : "#000000",
+        "bigName" : "#000000",
+        "isPro": false
+    },
+    {
+        "thumbName" : "#FFFFFF",
+        "bigName" : "#FFFFFF",
+        "isPro": false
+    },
+    {
+        "thumbName" : "#3D98E7",
+        "bigName" : "#3D98E7",
+        "isPro": false
+    },
+    {
+        "thumbName" : "#ED4546",
+        "bigName" : "#ED4546",
+        "isPro": false
+    },
+    {
+        "thumbName" : "#554BFF",
+        "bigName" : "#554BFF",
+        "isPro": false
+    },
+    {
+        "thumbName" : "#DC34DF",
+        "bigName" : "#DC34DF",
+        "isPro": false
+    },
+    {
+        "thumbName" : "#FF6B00",
+        "bigName" : "#FF6B00",
+        "isPro": false
+    },
+    {
+        "thumbName" : "#FFDC4D",
+        "bigName" : "#FFDC4D",
+        "isPro": false
+    },
+    {
+        "thumbName" : "#F07CF2",
+        "bigName" : "#F07CF2",
+        "isPro": false
+    },
+    {
+        "thumbName" : "#FFBFC0",
+        "bigName" : "#FFBFC0",
+        "isPro": false
+    },
+    {
+        "thumbName" : "#FFD1AF",
+        "bigName" : "#FFD1AF",
+        "isPro": false
+    },
+    {
+        "thumbName" : "#3AC299",
+        "bigName" : "#3AC299",
+        "isPro": false
+    },
+    {
+        "thumbName" : "#A09CE0",
+        "bigName" : "#A09CE0",
+        "isPro": false
+    },
+    {
+        "thumbName" : "#A9E2AB",
+        "bigName" : "#A9E2AB",
+        "isPro": false
+    },
+    {
+        "thumbName" : "#8BE2E8",
+        "bigName" : "#8BE2E8",
+        "isPro": false
+    }
+]

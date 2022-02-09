@@ -1,0 +1,248 @@
+
+[
+    {
+        "nameStr" : "Simple",
+        "bgColorStr" : "#EBC8B3",
+        "stickerList" : [
+            {
+                "thumbName" : "h_line_1",
+                "bigName" : "h_line_1_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_line_2",
+                "bigName" : "h_line_2_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_line_3",
+                "bigName" : "h_line_3_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_line_4",
+                "bigName" : "h_line_4_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_line_5",
+                "bigName" : "h_line_5_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_line_6",
+                "bigName" : "h_line_6_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_line_7",
+                "bigName" : "h_line_7_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_line_8",
+                "bigName" : "h_line_8_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_line_9",
+                "bigName" : "h_line_9_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_line_10",
+                "bigName" : "h_line_10_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_line_11",
+                "bigName" : "h_line_11_big",
+                "isPro": false
+            }
+        ]
+        
+    },
+    {
+        "nameStr" : "Art",
+        "bgColorStr" : "#687AC7",
+        "stickerList" : [
+            {
+                "thumbName" : "h_make_up_1",
+                "bigName" : "h_make_up_1_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_make_up_2",
+                "bigName" : "h_make_up_2_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_make_up_3",
+                "bigName" : "h_make_up_3_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_make_up_4",
+                "bigName" : "h_make_up_4_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_make_up_5",
+                "bigName" : "h_make_up_5_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_make_up_6",
+                "bigName" : "h_make_up_6_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_make_up_7",
+                "bigName" : "h_make_up_7_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_make_up_8",
+                "bigName" : "h_make_up_8_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_make_up_9",
+                "bigName" : "h_make_up_9_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_make_up_10",
+                "bigName" : "h_make_up_10_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_make_up_11",
+                "bigName" : "h_make_up_11_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_make_up_12",
+                "bigName" : "h_make_up_12_big",
+                "isPro": false
+            }
+        ]
+        
+    },
+    {
+        "nameStr" : "Molan",
+        "bgColorStr" : "#FBEBD2",
+        "stickerList" : [
+            {
+                "thumbName" : "h_molan_1",
+                "bigName" : "h_molan_1_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_molan_2",
+                "bigName" : "h_molan_2_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_molan_3",
+                "bigName" : "h_molan_3_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_molan_4",
+                "bigName" : "h_molan_4_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_molan_5",
+                "bigName" : "h_molan_5_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_molan_6",
+                "bigName" : "h_molan_6_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_molan_7",
+                "bigName" : "h_molan_7_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_molan_8",
+                "bigName" : "h_molan_8_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_molan_9",
+                "bigName" : "h_molan_9_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_molan_10",
+                "bigName" : "h_molan_10_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_molan_11",
+                "bigName" : "h_molan_11_big",
+                "isPro": false
+            }
+        ]
+        
+    },
+    {
+        "nameStr" : "Planet",
+        "bgColorStr" : "#91BAB0",
+        "stickerList" : [
+            {
+                "thumbName" : "h_plant_1",
+                "bigName" : "h_plant_1_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_plant_2",
+                "bigName" : "h_plant_2_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_plant_3",
+                "bigName" : "h_plant_3_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_plant_4",
+                "bigName" : "h_plant_4_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_plant_5",
+                "bigName" : "h_plant_5_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_plant_6",
+                "bigName" : "h_plant_6_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_plant_7",
+                "bigName" : "h_plant_7_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_plant_8",
+                "bigName" : "h_plant_8_big",
+                "isPro": false
+            },
+            {
+                "thumbName" : "h_plant_9",
+                "bigName" : "h_plant_9_big",
+                "isPro": false
+            }
+        ]
+        
+    }
+    
+    
+]
