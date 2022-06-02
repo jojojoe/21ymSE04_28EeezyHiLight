@@ -11,7 +11,7 @@ import AppTrackingTransparency
 
 // com.ezycover.storyhighlight
 // com.xinyu.test.888888
-let AppName: String = "Gap Cover"
+let AppName: String = "Cover Followers"
 let purchaseUrl = ""
 let TermsofuseURLStr = "https://www.app-privacy-policy.com/live.php?token=EJXbgdAN5gQeOUEOB6UAiV1fRPp95zxc"
 let PrivacyPolicyURLStr = "http://rare-apparel.surge.sh/Facial_Privacy_Policy.html"

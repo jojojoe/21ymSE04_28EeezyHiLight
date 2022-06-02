@@ -84,7 +84,7 @@ class EHmmEditVC: UIViewController, UINavigationControllerDelegate {
                 .adhere(toSuperview: contentBgV)
             overlayerImgV.snp.makeConstraints {
                 $0.center.equalToSuperview()
-                $0.width.height.equalTo((width / 3) + 160)
+                $0.width.height.equalTo((width / 3) + 210)
             }
             
             //
@@ -93,7 +93,7 @@ class EHmmEditVC: UIViewController, UINavigationControllerDelegate {
                 .adhere(toSuperview: contentBgV)
             contentImgV.snp.makeConstraints {
                 $0.center.equalToSuperview()
-                $0.width.height.equalTo(width / 3 + 50)
+                $0.width.height.equalTo(width / 2 + 100)
             }
             
             //
